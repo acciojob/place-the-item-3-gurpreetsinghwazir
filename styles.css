@@ -1,2 +1,36 @@
+.holder{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+}
 
-/* Your CSS Code here. */
+.item{
+	background: green;
+	border: 5px solid white;
+	width: 15%;
+	height: 90px;
+	}
+.item1{
+	background: red;
+	border: 5px solid white;
+	width: 15%;
+	height: 90px;
+	
+}
+.item2{
+	background: blue;
+	border: 5px solid white;
+	width: 15%;
+	height: 90px;
+}
+
+text{
+	 text-align: left;
+	 font-size: 40px;
+}
+
+
+
+
+
